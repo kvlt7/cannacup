@@ -1,1 +1,1 @@
-# cannacup
+#royalty_app
